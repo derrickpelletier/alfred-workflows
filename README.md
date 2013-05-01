@@ -8,6 +8,8 @@ Use the files in [compiled](blob/master/compiled/) if you just want to install t
 ## Node.js Docs
 ===========================
 
+![image](http://f.cl.ly/items/330X3E143z1P0T2l1C3p/nodescreen.png)
+
 Query Node.js docs quickly.
 
 Usage:
