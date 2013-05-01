@@ -51,7 +51,7 @@ class App(object):
     feedback = alfred.Feedback()
 
     if not search:
-      feedback.addItem(title='Table of Contents', subtitle=page + ' toc', arg=url + 'html#toc')
+      feedback.addItem(title='Table of Contents', subtitle=page + ' toc', arg=url + '#toc')
     
     success, data = self.getTocOfPage(url)
     

@@ -5,8 +5,8 @@ Some useful Alfred workflows.
 Use the files in [compiled](blob/master/compiled/) if you just want to install them.
 
 
-### Node.js Docs
-===============
+## Node.js Docs
+===========================
 
 Query Node.js docs quickly.
 
@@ -22,6 +22,6 @@ Usage:
 Use `node all <filter>` to search the entire docs.
 
 
-============
+====================================
 
 Credit to [JinnLynn](https://github.com/JinnLynn/alfred-python) for the Alfred-Python library bundled in these workflows.
