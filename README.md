@@ -8,7 +8,7 @@ Use the files in [compiled](blob/master/compiled/) if you just want to install t
 ## Node.js Docs
 ===========================
 
-![image](http://f.cl.ly/items/330X3E143z1P0T2l1C3p/nodescreen.png)
+![image](http://f.cl.ly/items/1d2y1y0m0r1J0I081A3W/Image%202013.05.01%204%3A16%3A44%20PM.png)
 
 Query Node.js docs quickly.
 
@@ -24,6 +24,7 @@ Usage:
 Use `node all <filter>` to search the entire docs.
 
 
+## Notes
 ====================================
 
 Credit to [JinnLynn](https://github.com/JinnLynn/alfred-python) for the Alfred-Python library bundled in these workflows.
