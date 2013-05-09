@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from pprint import pprint
 
 __version__ = '1.0'
-CACHE_EXPIRE = 60 * 30
+CACHE_EXPIRE = 60 * 60 * 48
 
 class App(object):
 
